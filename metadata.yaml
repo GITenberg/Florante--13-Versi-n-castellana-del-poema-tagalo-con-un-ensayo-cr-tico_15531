@@ -1,0 +1,47 @@
+_repo: Florante--13-Versi-n-castellana-del-poema-tagalo-con-un-ensayo-cr-tico_15531
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: De los Santos, Epifanio
+    aliases:
+    - Santos, Epifanio de los
+    - Santos Cristobal, Epifanio de los
+    - Los Santos, Epifanio de
+    - Santos Cristóbal, Epifanio de los
+    - De los Santos, Panyong
+    birthdate: 1871
+    deathdate: 1928
+    gutenberg_agent_id: '6107'
+    url: http://www.gutenberg.org/2009/agents/6107
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Balagtas, Francisco
+    aliases:
+    - Baltasar, Francisco
+    - Baltazar, Francisco
+    birthdate: 1788
+    deathdate: 1862
+    gutenberg_agent_id: '6106'
+    url: http://www.gutenberg.org/2009/agents/6106
+    wikipedia:
+    - http://tl.wikipedia.org/wiki/Francisco_Balagtas
+    - http://en.wikipedia.org/wiki/Francisco_Balagtas
+description: ''
+gutenberg_issued: '2005-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15531'
+language:
+- tl
+- es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Tagalog poetry -- Translations into Spanish'
+title: "Florante\r\nVersión castellana del poema tagalo con un ensayo crítico"
+url: http://www.gutenberg.org/ebooks/15531
